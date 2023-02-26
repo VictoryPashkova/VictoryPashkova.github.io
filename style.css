@@ -1,0 +1,73 @@
+body {
+    color: DimGrey;
+    margin-left: 15px;
+    font-family: 'Gill Sans';
+    background-color: LightGrey;
+    width: 800px;
+}
+
+.title1 {
+    color: grey;
+    width: 800px;
+    text-align: left;
+    font-size: 40px;
+    font-family: sans-serif;
+    background-color: whitesmoke;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.title2 {
+    color: whitesmoke;
+    width: 800px;
+    text-align: left;
+    font-size: 25px;
+    font-family: sans-serif;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+section{
+    color: white;
+    text-align: left;
+    font-size: 12px;
+    font-family: sans-serif;
+    background-color: gray;
+    width: 800px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+.skills {
+    color: whitesmoke;
+    text-align: left;
+    font-size: 12px;
+    width: 800px;
+    font-family: sans-serif;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.title3 {
+    color: whitesmoke;
+    text-align: write;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
