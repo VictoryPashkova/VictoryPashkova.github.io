@@ -1,0 +1,40 @@
+body {
+    color: DimGrey;
+    width: 200px;
+    margin-left: 15px;
+    font-family: 'Gill Sans';
+    background-color: LightGrey;
+}
+
+.title1 {
+    color: grey;
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    background-color: whitesmoke;
+}
+
+.title2 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.title3 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+section{
+    color: white;
+    text-align: right;
+    font-size: 12px;
+    font-family: sans-serif;
+    background-color: gray;
+
+}
